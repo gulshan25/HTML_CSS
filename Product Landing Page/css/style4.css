@@ -1,0 +1,101 @@
+.pricing {
+    display: flex;
+    width: 100%;
+}
+
+.pricing-box {
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 0 0 25px 0;
+    width: 100%;
+    
+    text-align: center;
+    margin: 100px;
+    justify-content: space-evenly;
+    
+       
+
+    
+}
+
+
+
+.pricing-box h2 {
+background-color: #DDDDDD;
+    font-size: 15px;
+    width: 87.777%;
+    
+    padding: 15px;
+    margin: 0 0 0 0;
+
+}
+    
+.pricing-box p {
+    padding: 10px 0;
+    
+}
+
+.pricing-box a {
+    background-color: yellow;
+    padding: 10px 10px;
+    
+    
+}
+
+
+
+.footer {
+    
+    background-color: #DDDDDD;
+    border: 1px solid #DDDDDD;
+    margin: 0 auto;
+    text-align: right;
+    width: 85.555%;
+    margin-top: 100px;
+    bottom: 0;
+    padding: 0 0 0 30px;
+    
+
+}
+
+footer .footer .footer-nav {
+    background-color: #DDDDDD;
+}
+
+.footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.footer li {
+    display: inline-block;
+    padding: 20px 25px 0 0;
+}
+
+.footer li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    
+}
+
+.footer p {
+    
+    color: grey;
+    width: 300px;
+    font-size: 15px;
+    padding-left: 73%;
+  
+
+    
+    
+    
+    
+}
+
+
+
+
+
