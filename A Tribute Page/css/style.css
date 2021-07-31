@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.container {
+    background-color: #EEEEEE;
+    margin: 20px;
+    border: 10px solid #EEEEEE;
+}
+
+.row {
+    overflow: hidden; 
+    text-align: center;
+    
+}
+
+img {
+    max-width: 100%;
+}
+
+.row-slider {
+    text-align: center;
+}
+
+.row-slider .slider-image p {
+    padding-bottom: 20px;
+    font-size: 16px;
+    
+}
+
+.slider-image {
+    background-color: white;
+}
+
+.slider-image image {
+    margin: 20px;
+}
+
+.row-middle {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.menu ul {
+    text-align: left;
+    padding-top: 30px;
+    
+}
+
+.menu {
+    margin-left: 325px;
+}
+
+.menu li {
+    padding: 15px;
+    list-style-type: circle black;
+    font-size:25px;
+    
+}
+
+.menu li a {
+    display: block;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+.menu li a span {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.row-middle h5{
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.row-middle p {
+    font-size: 19px;
+    text-align: justify;
+    margin-left: 350px;
+    text-transform: capitalize;
+}
+
+.row-last {
+    padding: 20px;
+    text-align: center;
+}
+
+.row-last h2 a {
+    color: #477CA7;
+}

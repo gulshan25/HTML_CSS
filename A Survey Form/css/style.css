@@ -1,0 +1,129 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0;
+    background-color: #7172A8;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.container {
+   
+    max-width: 100%;
+    
+    
+}
+
+.row {
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.row h1 {
+    font-size: 25px;
+}
+
+.row p {
+    padding: 10px;
+}
+
+.row-middle form {
+    border: 2px solid #262747;
+    box-sizing: border-box;
+    background-color: rgba(37,36,68,0.9);
+    width: 60%;
+    margin: 25px;
+    padding: 40px;
+    
+}
+
+.row-middle {
+    padding-left: 350px;
+   
+}
+
+label {
+    background-color: #262747;
+    color: white;
+   
+}
+
+input {
+    background-color: white;
+    padding: 12px;
+    border-radius: 5px;
+    width: 95%;
+    color: #949494;
+    font-size: 16px;
+    margin-bottom: 25px;
+    border: 2px solid #1F3E77;
+    box-sizing: border-box;
+    border-color: #1F3E77;
+}
+
+select {
+    background-color: white;
+    padding: 12px;
+    border-radius: 5px;
+    width: 95%;
+    color: #949494;
+    font-size: 16px;
+    margin-bottom: 25px;
+    
+    
+}
+
+option {
+    background-color: white;
+    color: #949494;
+}
+
+
+
+input[type='radio'] {
+    width: 20px;
+    color:white;
+    
+}
+
+input[type='checkbox'] {
+    width: 20px;
+    color:white;
+    height: auto;
+    
+}
+
+
+
+input[type='submit'] {
+   background-color: #37AF65; 
+   color: white;
+    
+}
+   
+textarea {
+    width: 93%;
+    padding: 10px 0 0 10px;
+    background-color: white;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background: none;
+    font-weight: normal;
+    line-height: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+ul, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a:hover, a:focus, input:focus, button:focus {
+    text-decoration: none !important;
+    outline: 0 !important;
+}
+
